@@ -5,13 +5,13 @@
 
 - Explain difference between git and github
   
-| Git             | Github         |
-| : ------------- | : ------------- |
-|Git is open-source licensed| GitHub includes a free-tier and pay-for-use tier|
-|Git is installed locally on the system| GitHub is hosted on the web|
-|Git is a command-line tool| GitHub is a graphical user interface|
-|Git is a software| GitHub is a service|
-|Git is focused on version control system to manage source code history| GitHub is a hosting service for Git repositories|
+| Git | Github |
+|:-|:-|
+| Git is open-source licensed | GitHub includes a free-tier and pay-for-use tier |
+| Git is installed locally on the system | GitHub is hosted on the web |
+| Git is a command-line tool | GitHub is a graphical user interface |
+| Git is a software | GitHub is a service |
+| Git is focused on version control system to manage source code history | GitHub is a hosting service for Git repositories |
 
 - List 3 other github alternatives
   
@@ -23,8 +23,8 @@
    
 - Explain the difference between git fetch and git pull
   
-| git fetch            | git pull         |
-| : ------------- | : ------------- |
+| git fetch | git pull |
+|:-|:-|
 | Gets updates from a remote repository without merging them | gets updates from a remote repository and automatically merges them into the current branch | 
 | Does not affect my working directory | It affects my working directory by inserting new data |
 | Consider safe without fear of altering my work | Need caution while working with it |
