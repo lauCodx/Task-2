@@ -1,6 +1,7 @@
 # TASKS AND ASSIGNMENTS
 
 - Explain version control.
+  
   Version control in git is a system that records changes to a file or set of files so you can go back to specific versions later. It keeps track of every modification made in a special kind of database.
 
 - Explain difference between git and github
@@ -18,8 +19,7 @@
   1. GitLab
   2. Bitbucket
   3. Gogs
-  4. Taravault
-  5. SourceForge
+  
    
 - Explain the difference between git fetch and git pull
   
